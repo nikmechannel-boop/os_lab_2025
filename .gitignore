@@ -1,0 +1,7 @@
+*.o
+sequential_min_max
+parallel_min_max
+exec_sequential
+temp_minmax_*.txt
+*.swp
+.vscode/
