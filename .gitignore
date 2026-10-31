@@ -2,6 +2,9 @@
 sequential_min_max
 parallel_min_max
 exec_sequential
+process_memory
+parallel_sum
+zombie
 temp_minmax_*.txt
 *.swp
 .vscode/
